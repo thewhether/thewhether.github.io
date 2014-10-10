@@ -1,0 +1,11 @@
+# Site settings
+title: thewhether
+email: chris@primergrey.com
+description: Making this blog beecuz - description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://thewhether.github.io" # the base hostname & protocol for your site
+twitter_username: thewhether
+github_username:  thewhether
+
+# Build settings
+markdown: kramdown
