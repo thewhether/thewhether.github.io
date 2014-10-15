@@ -1,21 +1,9 @@
 ---
 layout: post
-title:  "Here's another post title"
+title:  "Yesterday was a struggle."
 date:   2014-10-09 20:34:01
 categories: blogging lovers
 ---
-I'm making a new blog post. I basically copied the first post file and made some minor updates to the markdown. This stuff below seemed useful, so I kept it below.
+I'm making a new blog post. Last class was a bit of a mind fug. The JS writing is probably my biggest issue. I think it also still takes me a bit longer to process a lot of the logic that goes into the creation of JS solutions. The writing of the code is also really tedious. It's something that I think I can get better at with practice, but finding reasons to practice may prove difficult.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+With CSS, I know I can nail things with a bit more practice. I'm looking forward to learning a bit more about SASS. It looks like a huge time-saver. Same for the Responsive Mobile First approach to progressive CSS habits.
